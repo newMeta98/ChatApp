@@ -5,4 +5,4 @@ Here you can find signin and signup sistem with ability to change you profile pi
 Find other registred users, and chat wtih them totaly secured.
 Useing diferent encryption methods in one secert messaging system.
 
-This is done without OOP,  just function oriented programing.
+This is done useing functional programming.
