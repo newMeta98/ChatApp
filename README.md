@@ -1,5 +1,5 @@
 # ChatApp
-messenger with end to end encryption (PHP, MySql, Jquery, AJAX)
+messenger with end to end encryption
 
 Here you can find signin and signup sistem with ability to change you profile picture.
 Find other registred users, and chat wtih them totaly secured.
